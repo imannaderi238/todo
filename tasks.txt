@@ -1,0 +1,3 @@
+[ ] buy the fruit
+[x] go to park
+[x] go to library
