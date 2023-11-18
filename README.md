@@ -20,9 +20,6 @@ To run the "todo.py" application, you'll need to install Python (version 3.10.11
 
 After installing Python, you need to install the required libraries for the game. Use the following commands:
 #### 1: pip install colorama
-#### 2: pip install os
-#### 3: pip install sys
-#### 4: pip install Time
 
 After installing the prerequisites, run the "todo" game by using the following command:
 python todo.py
