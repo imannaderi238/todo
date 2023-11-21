@@ -28,7 +28,7 @@ Follow the instructions in the todo to try to add ,remove ,list and complete you
 
 # Features
 
-#### 1:Set your name 
+#### 1:No repetitive task 
 #### 2:Simple and user-friendly design suitable for all ages.
 
 And more...
